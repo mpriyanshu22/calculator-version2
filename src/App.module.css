@@ -1,0 +1,15 @@
+.calculator{
+  border: 2px solid rgba(143, 141, 141, 0.795);
+  width: 300px;
+  border-radius: 5px;
+  background-color: rgb(176, 184, 206);
+
+}
+.calContainer{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:rgb(32, 31, 31);
+}
